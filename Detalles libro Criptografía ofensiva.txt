@@ -8,7 +8,7 @@ disciplina, abandonen esta apasionante área.
 - El libro de Criptografia Ofensiva centra su esfuerzo en un enfoque práctico de uso de la criptografía en numerosos escenarios (usuario final, auditor,
  programador, pentester-hacker_ético, analista, etc.), con multitud de sabores y más de 800 referencias. 
 
-- Si quiere hacerse una idea del libro le dejo disponible en mi Github personal: el prólogo, mi introducción y el índice.
+- Si quiere hacerse una idea del libro le dejo disponible en mi Github personal: el prólogo, mi introducción y el índice - https://github.com/mindcrypt/libros/blob/master/Criptografia%20ofensiva%20-%20Criptografia%20aplicada%20para%20pentesters%2C%20programadores%20y%20analistas%20-%20version%20intro%20-%20Github.%20Dr%20Alfonso%20Mu%C3%B1oz.pdf
 
 - ¿A quién va destinado este libro?
 
